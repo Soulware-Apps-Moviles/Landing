@@ -1,0 +1,10 @@
+<section class="testimonials">
+  <h2>Testimonials</h2>
+  <div class="cards">
+    <mat-card class="feature-card" *ngFor="let t of testimonials">
+      <img [src]="t.image" [alt]="t.name">
+      <p class="text">"{{ t.text }}"</p>
+      <p class="name">— {{ t.name }}</p>
+    </mat-card>
+  </div>
+</section>

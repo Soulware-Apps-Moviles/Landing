@@ -1,0 +1,26 @@
+.hero {
+  background: url('/assets/fondo-tienda.png') center/cover no-repeat;
+  color: white;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  text-align: left;
+  padding: 2rem;
+
+  .content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2rem 3rem;
+    border-radius: 12px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+}

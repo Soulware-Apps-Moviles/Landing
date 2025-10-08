@@ -1,0 +1,15 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fffaf5; // fondo muy suave anaranjado
+color: #333;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #e65100; // naranja fuerte
+}
+
+button, .mat-raised-button {
+  border-radius: 8px;
+  font-weight: 500;
+}
