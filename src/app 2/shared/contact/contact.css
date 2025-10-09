@@ -1,0 +1,120 @@
+.contact-us-section {
+  display: flex;
+  justify-content: center;
+  padding: 4rem 2rem;
+  background-color: #f9f9f9;
+}
+
+.contact-us-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.contact-us-form-container {
+  flex: 1 1 500px;
+  background-color: #E1E1E1;
+  padding: 2.5rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-us-header h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.contact-us-header p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.contact-us-form .form-group {
+  margin-bottom: 1.5rem;
+}
+
+.contact-us-form label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.contact-us-form input[type="text"],
+.contact-us-form input[type="email"],
+.contact-us-form textarea {
+  width: 100%;
+  padding: 1rem 1rem;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+.contact-us-form textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.form-group-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.form-group-checkbox input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+.form-group-checkbox label {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.form-group-checkbox a {
+  color: #D97925;
+  text-decoration: underline;
+}
+
+.form-group-checkbox a:hover {
+  text-decoration: none;
+}
+
+.contact-us-form button[type="submit"] {
+  background-color: #E9903D;
+  color: white;
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  max-width: 200px;
+}
+
+.contact-us-form button[type="submit"]:hover {
+  background-color: #D97925;
+}
+
+.contact-us-image-container {
+  flex: 1 1 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-us-image-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+}

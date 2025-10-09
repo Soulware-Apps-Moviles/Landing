@@ -1,0 +1,55 @@
+{
+  "HEADER": {
+    "CUSTOMERS": "clientes",
+    "NAV": {
+      "FEATURES": "Funcionalidades",
+      "TESTIMONIALS": "Testimonios",
+      "CONTACT": "Contacto"
+    }
+  },
+  "HERO": {
+    "TITLE": "Tu bodega de confianza a solo un click de distancia",
+    "SUBTITLE": "Compra en la tienda que amas, con los precios de siempre en la comodidad de tu casa con T'Compro App.",
+    "APP_STORE": "Descargar en la App Store",
+    "PLAY_STORE": "Obtenlo en Google Play",
+    "SHOPS_VERSION": "Ir a la versión para bodegas"
+  },
+  "FEATURES": {
+    "TITLE": "Funcionalidades",
+    "SUBTITLE": "Con T'Compro App puedes redescubrir la experiencia de comprar tus productos favoritos en tu bodega de siempre.",
+    "ITEM_1_TITLE": "Llena tu bolsa de compras",
+    "ITEM_1_TEXT": "Elige los productos de tus marcas favoritas para preparar tu pedido. Elige detalles sobre como quieres realizar tu pedido, como la modalidad de entrega y pago.",
+    "ITEM_2_TITLE": "Descubre negocios locales",
+    "ITEM_2_TEXT": "Obtén una visión de los negocios cerca de ti que pueden atender tu compra. Compara ofertas, tiempo de entrega y elige la mejor opción para ti.",
+    "ITEM_3_TITLE": "Disfruta tu pedido",
+    "ITEM_3_TEXT": "Espera tu delivery o recoge en tienda cuando tu pedido esté listo para llevar."
+  },
+  "TESTIMONIALS": {
+    "TITLE": "Testimonios",
+    "SUBTITLE": "Conoce lo que tienen por decir algunos de nuestros usuarios que ya probaron comprar con T'Compro.",
+    "CARD_1_TEXT": "Me resulta cómodo poder ordenar anticipadamente, sobre todo, cuando ando corta de tiempo.",
+    "CARD_1_AUTHOR": "Camila Flores",
+    "CARD_2_TEXT": "El minimarket en el que compro siempre empezó a operar con esta aplicación. Está chévere guardar listas de compra.",
+    "CARD_2_AUTHOR": "Thiago Quispe",
+    "CARD_3_TEXT": "Me encanta ver el país modernizarse de a pocos. Aunque amo salir a caminar, ahora a veces me pido delivery.",
+    "CARD_3_AUTHOR": "Andrea García"
+  },
+  "CONTACT": {
+    "TITLE": "Contáctanos",
+    "SUBTITLE": "Cuéntanos brevemente tu experiencia o inquietudes sobre T'compro App Clientes.",
+    "NAME": "Nombre",
+    "DISTRICT": "Distrito",
+    "EMAIL": "Correo electrónico",
+    "MESSAGE": "Mensaje",
+    "POLICY": "He leído y acepto la Política de Privacidad",
+    "SEND": "Enviar"
+  },
+  "FOOTER": {
+    "CONTACT": "Contacto",
+    "KNOW_MORE": "Conoce más",
+    "TERMS": "Términos y condiciones",
+    "PRIVACY": "Política de Privacidad",
+    "DOWNLOAD": "Descarga la App",
+    "COPYRIGHT": "Soulware @ 2025. Todos los derechos reservados."
+  }
+}

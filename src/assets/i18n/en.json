@@ -1,0 +1,77 @@
+{
+  "HEADER": {
+    "CUSTOMERS": "customers",
+    "NAV": {
+      "FEATURES": "Functionalities",
+      "TESTIMONIALS": "Testimonials",
+      "CONTACT": "Contact"
+    }
+  },
+  "HERO": {
+    "TITLE": "Your shop of always just one click away",
+    "SUBTITLE": "Buy in the store you love, with the usual prices in the comodidad of your home with T'Compro App.",
+    "APP_STORE": "Download on the App Store",
+    "PLAY_STORE": "Get it on Google Play",
+    "SHOPS_VERSION": "Go to the shops version"
+  },
+  "FEATURES": {
+    "TITLE": "Features",
+    "SUBTITLE": "With T'Compro app you can rediscover the experience of buying your favorite products in your usual winery.",
+    "ITEM_1_TITLE": "Fill your shopping bag",
+    "ITEM_1_TEXT": "Choose the products of your favorite brands to prepare your order. Choose details about how you want to make your order, such as the delivery and payment modality.",
+    "ITEM_2_TITLE": "Discover local businesses",
+    "ITEM_2_TEXT": "Get a vision of business near you that can attend your purchase. Compare offers, delivery time and choose the best option for you.",
+    "ITEM_3_TITLE": "Enjoy your order",
+    "ITEM_3_TEXT": "Wait for your delivery or collect in store when your order is ready to carry."
+  },
+  "TESTIMONIALS": {
+    "TITLE": "Testimonials",
+    "SUBTITLE": "Our customers love T'Compro!",
+    "CARD_1_TEXT": "The T'Compro app has made my life so much easier. I can order from my favorite local store and have it delivered to my door. The best part is that the prices are the same as in the store!",
+    "CARD_1_AUTHOR": "Ana Lucia, 34",
+    "CARD_2_TEXT": "I love being able to support local businesses through this app. It's so easy to use and the delivery is always on time. I highly recommend it!",
+    "CARD_2_AUTHOR": "Carlos, 42",
+    "CARD_3_TEXT": "I was a bit hesitant to use a new app, but T'Compro has exceeded my expectations. The customer service is excellent and the app is very user-friendly. I'm a very happy customer!",
+    "CARD_3_AUTHOR": "Maria, 51"
+  },
+  "CONTACT": {
+    "TITLE": "Contact us",
+    "SUBTITLE": "Briefly tell us your experience or concerns about t'compro app customers.",
+    "NAME": "Name",
+    "DISTRICT": "District",
+    "EMAIL": "Email",
+    "MESSAGE": "Message",
+    "POLICY": "I have read and accept the Privacy Policy",
+    "SEND": "Send"
+  },
+  "FOOTER": {
+    "CONTACT": "Contact",
+    "KNOW_MORE": "Know more",
+    "TERMS": "Terms and conditions",
+    "PRIVACY": "Privacy Policy",
+    "DOWNLOAD": "Download the app",
+    "COPYRIGHT": "Soulware @ 2025. All Rights Reserved."
+  },
+  "PLANS_AND_PRICES": {
+    "TITLE": "Plans and prices",
+    "SUBTITLE": "Currently, you can start at T'compro App Shops at no cost!",
+    "ENTREPRENEUR_PLAN": {
+      "TITLE": "Entrepreneur plan",
+      "PRICE": "Free",
+      "FEATURE_1": "Product catalog",
+      "FEATURE_2": "Custom winery configuration",
+      "FEATURE_3": "Orders",
+      "FEATURE_4": "Financial monitoring",
+      "BUTTON": "Start now"
+    },
+    "PREMIUM_PLAN": {
+      "TITLE": "Premium plan",
+      "PRICE": "???",
+      "FEATURE_1": "Stock control",
+      "FEATURE_2": "Issuance of sales tickets",
+      "FEATURE_3": "Tax calculations",
+      "FEATURE_4": "...and more!",
+      "BUTTON": "Coming soon!"
+    }
+  }
+}
